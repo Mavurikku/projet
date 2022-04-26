@@ -1028,3 +1028,48 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.04.26-09.33.18:362][616]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Runtime/ResonanceAudio/Content: 'D:/UE_5.0/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
 [2022.04.26-09.33.18:362][616]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Runtime/Synthesis/Content: 'D:/UE_5.0/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
 [2022.04.26-09.33.18:447][616]EditorErrors: Warning: No assets to check in!
+[2022.04.26-09.53.09:770][524]SourceControl: Source control is disabled
+[2022.04.26-09.54.49:634][732]LogSlate: Window 'Source Control Login' being destroyed
+[2022.04.26-09.55.10:811][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.04.26-09.55.11:711][212]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.26-09.55.11:815][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.04.26-09.55.11:821][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.04.26-09.55.11:826][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.04.26-09.55.12:027][212]SourceControl: Error: Updated 0 paths from the index
+[2022.04.26-09.55.12:171][212]SourceControl: rm 'tps 5.0/Content/TopDownShooter/NewFolder/nimp.uasset'
+[2022.04.26-09.55.17:013][748]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2022.04.26-09.55.17:019][748]LogContentBrowser: Creating deferred item: NewMaterial
+[2022.04.26-09.55.17:027][749]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2022.04.26-09.55.20:298][136]LogContentBrowser: Attempting asset rename: NewMaterial -> dfsjkg
+[2022.04.26-09.55.20:380][136]LogContentBrowser: End creating deferred item NewMaterial
+[2022.04.26-09.55.41:403][484]LogSavePackage: Moving output files for package: /Game/TopDownShooter/NewFolder/dfsjkg
+[2022.04.26-09.55.41:403][484]LogSavePackage: Moving '../../../../GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet/tps 5.0/Saved/dfsjkg05D4CC4245AE9C809719F4822B791C22.tmp' to '../../../../GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet/tps 5.0/Content/TopDownShooter/NewFolder/dfsjkg.uasset'
+[2022.04.26-09.55.41:727][484]AssetCheck: New page: Asset Save: dfsjkg
+[2022.04.26-09.55.41:728][484]LogContentValidation: Display: Validating Material /Game/TopDownShooter/NewFolder/dfsjkg.dfsjkg
+[2022.04.26-09.57.09:345][ 89]SourceControl: fatal: D:/UE_5.0/Engine/Content: 'D:/UE_5.0/Engine/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.57.09:345][ 89]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Bridge/Content: 'D:/UE_5.0/Engine/Plugins/Bridge/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.57.09:345][ 89]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Animation/ControlRig/Content: 'D:/UE_5.0/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.57.09:345][ 89]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Animation/ControlRigSpline/Content: 'D:/UE_5.0/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.57.09:345][ 89]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Animation/IKRig/Content: 'D:/UE_5.0/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.57.09:345][ 89]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/2D/Paper2D/Content: 'D:/UE_5.0/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.57.09:345][ 89]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/UE_5.0/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.57.09:345][ 89]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Editor/GeometryMode/Content: 'D:/UE_5.0/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.57.09:345][ 89]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/UE_5.0/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.57.09:345][ 89]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/UE_5.0/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.57.09:345][ 89]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/FX/Niagara/Content: 'D:/UE_5.0/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.57.09:345][ 89]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/UE_5.0/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.57.09:345][ 89]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/UE_5.0/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.57.09:345][ 89]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/UE_5.0/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.57.09:345][ 89]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Experimental/FullBodyIK/Content: 'D:/UE_5.0/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.57.09:345][ 89]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/UE_5.0/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.57.09:345][ 89]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'D:/UE_5.0/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.57.09:345][ 89]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/UE_5.0/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.57.09:345][ 89]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/MovieScene/SequencerScripting/Content: 'D:/UE_5.0/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.57.09:345][ 89]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/UE_5.0/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.57.09:345][ 89]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Runtime/GeometryProcessing/Content: 'D:/UE_5.0/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.57.09:345][ 89]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Media/MediaCompositing/Content: 'D:/UE_5.0/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.57.09:345][ 89]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Runtime/HairStrands/Content: 'D:/UE_5.0/Engine/Plugins/Runtime/HairStrands/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.57.09:345][ 89]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'D:/UE_5.0/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.57.09:345][ 89]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Runtime/ResonanceAudio/Content: 'D:/UE_5.0/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.57.09:345][ 89]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Runtime/Synthesis/Content: 'D:/UE_5.0/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.57.09:433][ 89]EditorErrors: Warning: No assets to check in!
