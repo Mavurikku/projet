@@ -835,3 +835,196 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.04.26-09.05.19:693][270]AssetCheck: New page: Asset Save: MainMap
 [2022.04.26-09.05.19:693][270]LogContentValidation: Display: Validating World /Game/TopDownShooter/Level/MainMap.MainMap
 [2022.04.26-09.05.53:323][796]LogDerivedDataCache: C:/Users/momo974/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.420 and deleted 0 file(s) with total size 0 MiB.
+[2022.04.26-09.06.35:389][ 82]SourceControl: Source control is disabled
+[2022.04.26-09.06.37:987][386]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2022.04.26-09.06.37:987][386]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2022.04.26-09.06.37:987][386]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2022.04.26-09.06.37:987][386]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2022.04.26-09.06.37:987][386]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2022.04.26-09.06.37:987][386]LogWindows: Warning: URL: C:\Users\momo974\AppData\Local/Programs/Git/cmd/git.exe version
+[2022.04.26-09.06.37:987][386]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2022.04.26-09.06.37:987][386]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2022.04.26-09.06.37:987][386]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2022.04.26-09.06.37:987][386]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2022.04.26-09.06.37:987][386]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2022.04.26-09.06.37:987][386]LogWindows: Warning: URL: C:\Users\momo974\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2022.04.26-09.06.37:987][386]LogWindows: Warning: CreateProc failed: Le fichier spécifié est introuvable. (0x00000002)
+[2022.04.26-09.06.37:987][386]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2022.04.26-09.06.39:512][566]LogWindows: Warning: CreateProc failed: Accès refusé. (0x00000005)
+[2022.04.26-09.06.39:512][566]LogWindows: Warning: URL: D:/UE_5.0/Engine/Binaries/Win64/ version
+[2022.04.26-09.11.52:918][592]LogWindows: Warning: CreateProc failed: Accès refusé. (0x00000005)
+[2022.04.26-09.11.52:918][592]LogWindows: Warning: URL: D:/UE_5.0/Engine/Binaries/Win64/ version
+[2022.04.26-09.11.52:918][592]SourceControl: Error: Connection Error: Failed to enable Git source control. You need to install Git and specify a valid path to git executable.
+[2022.04.26-09.14.10:414][850]LogSourceControl: Error: 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet' is not a valid Git repository
+[2022.04.26-09.17.12:967][ 75]SourceControl: Error: Error: unknown shorthand flag: 'C' in -C
+[2022.04.26-09.17.12:967][ 75]SourceControl: Error: Error: unknown shorthand flag: 'C' in -C
+[2022.04.26-09.17.12:967][ 75]SourceControl: Error: Connection Error: Failed to enable Git source control. You need to initialize the project as a Git repository first.
+[2022.04.26-09.17.14:674][247]SourceControl: Error: Error: unknown shorthand flag: 'C' in -C
+[2022.04.26-09.17.14:674][247]SourceControl: Error: Error: unknown shorthand flag: 'C' in -C
+[2022.04.26-09.17.14:674][247]SourceControl: Error: Connection Error: Failed to enable Git source control. You need to initialize the project as a Git repository first.
+[2022.04.26-09.17.28:855][916]SourceControl: Error: Error: unknown shorthand flag: 'C' in -C
+[2022.04.26-09.17.28:855][916]SourceControl: Error: Error: unknown shorthand flag: 'C' in -C
+[2022.04.26-09.17.28:855][916]SourceControl: Error: Connection Error: Failed to enable Git source control. You need to initialize the project as a Git repository first.
+[2022.04.26-09.17.43:628][603]LogSourceControl: Error: 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet' is not a valid Git repository
+[2022.04.26-09.17.49:902][330]SourceControl: Error: Error: unknown shorthand flag: 'C' in -C
+[2022.04.26-09.17.49:902][330]SourceControl: Error: Error: unknown shorthand flag: 'C' in -C
+[2022.04.26-09.17.49:902][330]SourceControl: Error: Connection Error: Failed to enable Git source control. You need to initialize the project as a Git repository first.
+[2022.04.26-09.17.55:372][900]LogSourceControl: Error: 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet' is not a valid Git repository
+[2022.04.26-09.17.56:358][940]LogSourceControl: Error: 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet' is not a valid Git repository
+[2022.04.26-09.17.57:851][ 40]LogSourceControl: Error: 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet' is not a valid Git repository
+[2022.04.26-09.17.59:841][201]LogSourceControl: Error: 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet' is not a valid Git repository
+[2022.04.26-09.18.24:958][309]LogSourceControl: Error: 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet' is not a valid Git repository
+[2022.04.26-09.18.26:363][452]SourceControl: Error: Error: unknown shorthand flag: 'C' in -C
+[2022.04.26-09.18.26:363][452]SourceControl: Error: Error: unknown shorthand flag: 'C' in -C
+[2022.04.26-09.18.26:363][452]SourceControl: Error: Connection Error: Failed to enable Git source control. You need to initialize the project as a Git repository first.
+[2022.04.26-09.18.31:394][970]LogSourceControl: Error: 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet' is not a valid Git repository
+[2022.04.26-09.18.33:567][162]LogSourceControl: Error: 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet' is not a valid Git repository
+[2022.04.26-09.18.36:518][488]SourceControl: Error: Error: unknown shorthand flag: 'C' in -C
+[2022.04.26-09.18.36:518][488]SourceControl: Error: Error: unknown shorthand flag: 'C' in -C
+[2022.04.26-09.18.36:518][488]SourceControl: Error: Connection Error: Failed to enable Git source control. You need to initialize the project as a Git repository first.
+[2022.04.26-09.19.20:270][789]LogSlate: Window 'Source Control Login' being destroyed
+[2022.04.26-09.19.27:018][563]LogSlate: Took 0.002288 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.04.26-09.19.27:023][563]LogSlate: Took 0.000800 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.26-09.19.55:926][974]SourceControl: Source control is disabled
+[2022.04.26-09.20.11:495][786]LogSlate: Window 'Source Control Login' being destroyed
+[2022.04.26-09.20.21:370][827]Cmd: DUPLICATE
+[2022.04.26-09.20.21:370][827]Cmd: ACTOR DUPLICATE
+[2022.04.26-09.20.21:412][828]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.20.22:439][951]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.20.22:456][953]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.20.22:682][979]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.20.23:191][ 40]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.20.23:308][ 54]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.20.23:324][ 56]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.20.23:349][ 59]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.20.23:607][ 90]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.20.23:665][ 96]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.20.51:868][291]LogSlate: Took 0.010719 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.04.26-09.21.00:917][246]Cmd: DELETE
+[2022.04.26-09.21.00:917][246]Cmd: ACTOR DELETE
+[2022.04.26-09.21.00:920][246]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.26-09.21.00:926][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.04.26-09.21.00:927][246]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2022.04.26-09.21.00:933][247]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.21.34:805][ 22]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TopDownShooter/NewFolder/maisontest9_fbx_Scene__1__Cube_002.maisontest9_fbx_Scene__1__Cube_002
+[2022.04.26-09.21.34:805][ 22]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TopDownShooter/NewFolder/maisontest9_fbx_Scene__1__Cube_002.maisontest9_fbx_Scene__1__Cube_002
+[2022.04.26-09.21.34:806][ 22]LogActorFactory: Actor Factory spawned StaticMesh /Game/TopDownShooter/NewFolder/maisontest9_fbx_Scene__1__Cube_002.maisontest9_fbx_Scene__1__Cube_002 as actor: StaticMeshActor /Game/TopDownShooter/Level/MainMap.MainMap:PersistentLevel.StaticMeshActor_5
+[2022.04.26-09.21.35:703][124]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TopDownShooter/NewFolder/maisontest9_fbx_Scene__1__Cube_002.maisontest9_fbx_Scene__1__Cube_002
+[2022.04.26-09.21.35:703][124]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TopDownShooter/NewFolder/maisontest9_fbx_Scene__1__Cube_002.maisontest9_fbx_Scene__1__Cube_002
+[2022.04.26-09.21.35:704][124]LogActorFactory: Actor Factory spawned StaticMesh /Game/TopDownShooter/NewFolder/maisontest9_fbx_Scene__1__Cube_002.maisontest9_fbx_Scene__1__Cube_002 as actor: StaticMeshActor /Game/TopDownShooter/Level/MainMap.MainMap:PersistentLevel.StaticMeshActor_6
+[2022.04.26-09.21.35:750][125]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.21.37:776][346]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.21.38:082][370]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.21.38:448][390]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.21.38:464][392]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.21.38:506][397]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.21.38:522][399]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.21.38:548][402]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.21.38:616][409]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.21.39:472][501]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.21.39:488][503]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.21.39:513][506]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.21.39:588][515]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.21.39:622][519]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.21.39:655][523]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.21.39:688][527]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.21.39:756][535]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.21.39:847][546]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.21.39:864][548]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.21.39:897][552]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.21.39:914][554]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.21.39:981][562]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.21.40:030][568]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.21.40:122][578]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.21.42:469][823]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.21.42:713][834]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.21.42:777][838]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.21.42:802][841]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.21.43:035][869]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.21.43:069][873]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.21.43:094][876]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.21.43:110][878]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.21.43:144][882]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.21.43:161][884]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.21.43:193][888]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.21.43:536][928]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.21.45:463][142]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.21.45:822][160]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.21.45:956][167]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.21.45:991][171]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.21.46:025][175]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.21.46:083][182]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.21.46:642][248]LogNavigationDataBuild: Navigation data generation finished in /Game/TopDownShooter/Level/MainMap.
+[2022.04.26-09.21.52:527][853]LogEditorViewport: Clicking Background
+[2022.04.26-09.21.56:925][337]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.26-09.21.56:925][337]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.04.26-09.22.19:505][822]SourceControl: fatal: D:/UE_5.0/Engine/Content: 'D:/UE_5.0/Engine/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.22.19:505][822]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Bridge/Content: 'D:/UE_5.0/Engine/Plugins/Bridge/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.22.19:505][822]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Animation/ControlRig/Content: 'D:/UE_5.0/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.22.19:505][822]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Animation/ControlRigSpline/Content: 'D:/UE_5.0/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.22.19:505][822]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Animation/IKRig/Content: 'D:/UE_5.0/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.22.19:505][822]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/2D/Paper2D/Content: 'D:/UE_5.0/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.22.19:505][822]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/UE_5.0/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.22.19:505][822]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Editor/GeometryMode/Content: 'D:/UE_5.0/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.22.19:505][822]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/UE_5.0/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.22.19:505][822]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/UE_5.0/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.22.19:505][822]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/FX/Niagara/Content: 'D:/UE_5.0/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.22.19:505][822]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/UE_5.0/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.22.19:505][822]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/UE_5.0/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.22.19:505][822]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/UE_5.0/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.22.19:505][822]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Experimental/FullBodyIK/Content: 'D:/UE_5.0/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.22.19:505][822]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/UE_5.0/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.22.19:505][822]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'D:/UE_5.0/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.22.19:505][822]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/UE_5.0/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.22.19:505][822]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/MovieScene/SequencerScripting/Content: 'D:/UE_5.0/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.22.19:505][822]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/UE_5.0/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.22.19:505][822]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Runtime/GeometryProcessing/Content: 'D:/UE_5.0/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.22.19:505][822]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Media/MediaCompositing/Content: 'D:/UE_5.0/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.22.19:505][822]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Runtime/HairStrands/Content: 'D:/UE_5.0/Engine/Plugins/Runtime/HairStrands/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.22.19:505][822]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'D:/UE_5.0/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.22.19:505][822]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Runtime/ResonanceAudio/Content: 'D:/UE_5.0/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.22.19:505][822]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Runtime/Synthesis/Content: 'D:/UE_5.0/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.22.19:610][822]EditorErrors: Warning: No assets to check in!
+[2022.04.26-09.22.39:557][ 59]LogEditorViewport: Clicking Background
+[2022.04.26-09.22.45:959][729]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2022.04.26-09.22.45:965][729]LogContentBrowser: Creating deferred item: NewMaterial
+[2022.04.26-09.22.45:973][730]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2022.04.26-09.22.49:045][ 96]LogContentBrowser: Attempting asset rename: NewMaterial -> nimp
+[2022.04.26-09.22.49:131][ 96]LogContentBrowser: End creating deferred item NewMaterial
+[2022.04.26-09.23.15:372][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownShooter/NewFolder/nimp" FILE="../../../../GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet/tps 5.0/Content/TopDownShooter/NewFolder/nimp.uasset" SILENT=true
+[2022.04.26-09.23.15:373][ 43]LogSavePackage: Moving output files for package: /Game/TopDownShooter/NewFolder/nimp
+[2022.04.26-09.23.15:373][ 43]LogSavePackage: Moving '../../../../GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet/tps 5.0/Saved/nimpA25014AF4CECBDDEA345B683F26B880C.tmp' to '../../../../GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet/tps 5.0/Content/TopDownShooter/NewFolder/nimp.uasset'
+[2022.04.26-09.23.15:678][ 43]AssetCheck: New page: Asset Save: nimp
+[2022.04.26-09.23.15:678][ 43]LogContentValidation: Display: Validating Material /Game/TopDownShooter/NewFolder/nimp.nimp
+[2022.04.26-09.29.05:192][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.04.26-09.29.05:210][698]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDownShooter/Level/MainMap_Auto1
+[2022.04.26-09.29.05:211][698]LogSavePackage: Moving '../../../../GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet/tps 5.0/Saved/MainMap_Auto109A296F0484696DF18EE2A9E549D34D0.tmp' to '../../../../GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet/tps 5.0/Saved/Autosaves/Game/TopDownShooter/Level/MainMap_Auto1.umap'
+[2022.04.26-09.29.05:212][698]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownShooter/Level/MainMap' took 0.028
+[2022.04.26-09.29.05:212][698]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.028
+[2022.04.26-09.33.18:361][616]SourceControl: fatal: D:/UE_5.0/Engine/Content: 'D:/UE_5.0/Engine/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.33.18:361][616]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Bridge/Content: 'D:/UE_5.0/Engine/Plugins/Bridge/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.33.18:361][616]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Animation/ControlRig/Content: 'D:/UE_5.0/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.33.18:361][616]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Animation/ControlRigSpline/Content: 'D:/UE_5.0/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.33.18:361][616]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Animation/IKRig/Content: 'D:/UE_5.0/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.33.18:361][616]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/2D/Paper2D/Content: 'D:/UE_5.0/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.33.18:361][616]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/UE_5.0/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.33.18:361][616]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Editor/GeometryMode/Content: 'D:/UE_5.0/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.33.18:361][616]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/UE_5.0/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.33.18:361][616]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/UE_5.0/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.33.18:361][616]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/FX/Niagara/Content: 'D:/UE_5.0/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.33.18:362][616]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/UE_5.0/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.33.18:362][616]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/UE_5.0/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.33.18:362][616]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/UE_5.0/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.33.18:362][616]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Experimental/FullBodyIK/Content: 'D:/UE_5.0/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.33.18:362][616]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/UE_5.0/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.33.18:362][616]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'D:/UE_5.0/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.33.18:362][616]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/UE_5.0/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.33.18:362][616]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/MovieScene/SequencerScripting/Content: 'D:/UE_5.0/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.33.18:362][616]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/UE_5.0/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.33.18:362][616]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Runtime/GeometryProcessing/Content: 'D:/UE_5.0/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.33.18:362][616]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Media/MediaCompositing/Content: 'D:/UE_5.0/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.33.18:362][616]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Runtime/HairStrands/Content: 'D:/UE_5.0/Engine/Plugins/Runtime/HairStrands/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.33.18:362][616]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'D:/UE_5.0/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.33.18:362][616]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Runtime/ResonanceAudio/Content: 'D:/UE_5.0/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.33.18:362][616]SourceControl: fatal: D:/UE_5.0/Engine/Plugins/Runtime/Synthesis/Content: 'D:/UE_5.0/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'D:/GitHub_UnRealEngine/projet/GitHubUnRealEngine/projet'
+[2022.04.26-09.33.18:447][616]EditorErrors: Warning: No assets to check in!
